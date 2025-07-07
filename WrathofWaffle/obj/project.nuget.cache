@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j/nL+2E48Vg=",
+  "dgSpecHash": "iQ4quAYVAe4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lekss\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\WrathofWaffle\\WrathofWaffle.csproj",
+  "projectFilePath": "C:\\Users\\gordo\\Documents\\My Games\\Terraria\\tModLoader\\modsources\\WrathofWaffle\\WrathofWaffle.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lekss\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "C:\\Users\\gordo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }
