@@ -11,3 +11,5 @@ Items: {
 		Tooltip: "'It's eerily dormant.'"
 	}
 }
+
+NPCs.Saucer.DisplayName: Saucer

@@ -31,24 +31,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lekss\\.nuget\\packages\\": {}
+    "C:\\Users\\gordo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lekss\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\WrathofWaffle\\WrathofWaffle.csproj",
+      "projectUniqueName": "C:\\Users\\gordo\\Documents\\My Games\\Terraria\\tModLoader\\modsources\\WrathofWaffle\\WrathofWaffle.csproj",
       "projectName": "WrathofWaffle",
-      "projectPath": "C:\\Users\\lekss\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\WrathofWaffle\\WrathofWaffle.csproj",
-      "packagesPath": "C:\\Users\\lekss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lekss\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\WrathofWaffle\\obj\\",
+      "projectPath": "C:\\Users\\gordo\\Documents\\My Games\\Terraria\\tModLoader\\modsources\\WrathofWaffle\\WrathofWaffle.csproj",
+      "packagesPath": "C:\\Users\\gordo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gordo\\Documents\\My Games\\Terraria\\tModLoader\\modsources\\WrathofWaffle\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lekss\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gordo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +73,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -93,7 +101,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
